@@ -3,7 +3,7 @@ Textgen
 
 Library text generation.
 
-<a href="https://gratipay.com/demdxx/" target="_blank"><img src="//img.shields.io/gratipay/demdxx.svg"></a>
+[![Gratipay](http://img.shields.io/gratipay/demdxx.svg)](https://gratipay.com/demdxx/)
 
     @copyright Dmitry Ponomarev 2014 <demdxx@gmail.com>
     @license MIT
