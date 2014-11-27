@@ -1,0 +1,8 @@
+#
+# Example: Text [word 1|word 2|word 3] end
+#
+
+name: textgen
+version: 0.0.1
+
+cmd:
